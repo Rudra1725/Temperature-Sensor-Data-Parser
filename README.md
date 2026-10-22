@@ -67,6 +67,8 @@ temperature-sensor-data-parser/
 ```
 
 ---
+## 🔍 Sample Output 
+<img src = "Assets/Screenshot 2026-10-23 013400.png" height=520px/>
 
 ## 🚀 Installation & Setup
 
